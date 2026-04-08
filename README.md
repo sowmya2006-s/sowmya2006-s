@@ -66,5 +66,5 @@ I am specializing in **Artificial Intelligence and Machine Learning**, with a st
   <a href="https://www.linkedin.com/in/sowmya-sakthivel-24a660309/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  
 </div>
