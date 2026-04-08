@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Sowmya%20S&fontSize=50&animation=fadeIn" alt="Header" />
 
-  <h3 align="center">🎓 AI & Machine Learning Enthusiast</h3>
+  <h3 align="center"> AI & Machine Learning Enthusiast</h3>
 
   <p align="center">
-    💡 Passionate about building AI systems using Deep Learning, NLP, and LLMs
+     Passionate about building AI systems using Deep Learning, NLP, and LLMs
   </p>
 
   <p align="center">
@@ -15,30 +15,30 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am specializing in **Artificial Intelligence and Machine Learning**, with a strong passion for building **real-world AI applications** in healthcare, automation, and intelligent systems. 
 
-🌱 **Currently working on projects involving:**
-- 🧠 Deep Learning & Neural Networks
-- 🗣️ Natural Language Processing (NLP) & LLM Applications
-- 🤖 AI Automation
-- 👁️ Computer Vision
+ **Currently working on projects involving:**
+-   Deep Learning & Neural Networks
+-   Natural Language Processing (NLP) & LLM Applications
+-   AI Automation
+-   Computer Vision
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 | Category | Technologies |
 | :--- | :--- |
-| **💻 Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> |
-| **🧠 Libraries & AI** | <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/NLP-%234169E1.svg?style=for-the-badge&logoColor=white" alt="NLP" /> <img src="https://img.shields.io/badge/LLMs-%23FF9900.svg?style=for-the-badge&logoColor=white" alt="LLMs" /> <img src="https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge&logoColor=white" alt="Deep Learning" /> |
-| **⚙️ Tools & Frameworks** | <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/n8n-%23FF6D5A.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /> |
-| **🗄️ Databases** | <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> |
+| **Libraries & AI** | <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/NLP-%234169E1.svg?style=for-the-badge&logoColor=white" alt="NLP" /> <img src="https://img.shields.io/badge/LLMs-%23FF9900.svg?style=for-the-badge&logoColor=white" alt="LLMs" /> <img src="https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge&logoColor=white" alt="Deep Learning" /> |
+| **Tools & Frameworks** | <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/n8n-%23FF6D5A.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /> |
+| **Databases** | <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> |
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project Name | Description | Repository |
 | :--- | :--- | :--- |
@@ -59,8 +59,8 @@ I am specializing in **Artificial Intelligence and Machine Learning**, with a st
 ---
 
 <div align="center">
-  <h3>📫 Get in touch</h3>
-  <p>⭐ Always open to AI/ML internships, research collaborations, and innovative AI projects.</p>
+  <h3> Get in touch</h3>
+  <p> Always open to AI/ML internships, research collaborations, and innovative AI projects.</p>
   <a href="mailto:sowmyasakthivelcbe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="Add Your LinkedIn Link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   
