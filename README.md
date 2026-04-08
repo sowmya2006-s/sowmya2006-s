@@ -50,19 +50,20 @@ I am specializing in **Artificial Intelligence and Machine Learning**, with a st
 
 ## 🏆 Achievements & Certifications
 
-### 🏅 Achievements
+###  Achievements
 - 🥉 **Math Expo 2025 – 3rd Prize**: Built a tool capable of solving complex algebraic equations accurately.
 
-### 📜 Certifications
+###  Certifications
 - ✔ **Oracle Certified AI Foundations**: Focused on Artificial Intelligence, Machine Learning, Deep Learning, and AI Applications.
 
 ---
 
+
 <div align="center">
   <h3> Get in touch</h3>
-  <p> Always open to AI/ML internships, research collaborations, and innovative AI projects.</p>
-  <a href="mailto:sowmyasakthivelcbe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="Add Your LinkedIn Link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <p>Always open to AI/ML internships, research collaborations, and innovative AI projects.</p>
+  <a href="mailto:sowmyaskthivelcbe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/sowmya-sakthivel-24a660309/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
