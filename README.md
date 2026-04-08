@@ -42,9 +42,9 @@ I am specializing in **Artificial Intelligence and Machine Learning**, with a st
 
 | Project Name | Description | Repository |
 | :--- | :--- | :--- |
-| **🧠 Multi-Stage Dementia Disease Detection System** | Designed a 3-stage dementia assessment workflow (Cognitive testing + memory evaluation + MRI classification). Built **SWIN Transformer** deep learning model to predict the dementia stage from brain MRI scans. | [View Repo](#) |
-| **🐄 AI-Based Automated Animal Type Classification** | Developed an AI system for cattle vs buffalo classification. Implemented hierarchical breed classification using CNN + Transfer Learning. Includes preprocessing, augmentation, and model training. | [View Repo](#) |
-| **🚆 RailFlow – AI Driven Railway Booking System** | Built an AI-powered railway ticket booking platform. Integrated **LLaMA-3.3-70B-Versatile** to enable natural language train search and booking assistance. | [View Repo](#) |
+| **🧠 Multi-Stage Dementia Disease Detection System** | Designed a 3-stage dementia assessment workflow (Cognitive testing + memory evaluation + MRI classification). Built **SWIN Transformer** deep learning model to predict the dementia stage from brain MRI scans. | [View Repo](https://github.com/sowmya2006-s/-AI-Powered-Multimodal-Dementia-Detection-System.git) |
+| **🐄 AI-Based Automated Animal Type Classification** | Developed an AI system for cattle vs buffalo classification. Implemented hierarchical breed classification using CNN + Transfer Learning. Includes preprocessing, augmentation, and model training. | [View Repo](https://github.com/sowmya2006-s/Cattle_-_Buffalo.git) |
+| **🚆 RailFlow – AI Driven Railway Booking System** | Built an AI-powered railway ticket booking platform. Integrated **LLaMA-3.3-70B-Versatile** to enable natural language train search and booking assistance. | [View Repo](https://github.com/sowmya2006-s/railflow.git) |
 
 ---
 
@@ -65,6 +65,5 @@ I am specializing in **Artificial Intelligence and Machine Learning**, with a st
   <a href="Add Your LinkedIn Link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   
   <br><br>
-  <!-- Replace YOUR_USERNAME below with your actual GitHub username to activate the views counter -->
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </div>
