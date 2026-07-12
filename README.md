@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Sowmya%20S&fontSize=50&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HELLO%20%F0%9F%91%8B%2C%20I'm%20Sowmya%20S&fontSize=50&animation=fadeIn" alt="Header" />
 
   <h3 align="center"> AI & Machine Learning Enthusiast</h3>
 
@@ -42,9 +42,10 @@ I am specializing in **Artificial Intelligence and Machine Learning**, with a st
 
 | Project Name | Description | Repository |
 | :--- | :--- | :--- |
-| **🧠 Multi-Stage Dementia Disease Detection System** | Designed a 3-stage dementia assessment workflow (Cognitive testing + memory evaluation + MRI classification). Built **SWIN Transformer** deep learning model to predict the dementia stage from brain MRI scans. | [View Repo](https://github.com/sowmya2006-s/-AI-Powered-Multimodal-Dementia-Detection-System.git) |
-| **🐄 AI-Based Automated Animal Type Classification** | Developed an AI system for cattle vs buffalo classification. Implemented hierarchical breed classification using CNN + Transfer Learning. Includes preprocessing, augmentation, and model training. | [View Repo](https://github.com/sowmya2006-s/Cattle_-_Buffalo.git) |
-| **🚆 RailFlow – AI Driven Railway Booking System** | Built an AI-powered railway ticket booking platform. Integrated **LLaMA-3.3-70B-Versatile** to enable natural language train search and booking assistance. | [View Repo](https://github.com/sowmya2006-s/railflow.git) |
+| **Multi-Stage Dementia Disease Detection System** | Designed a 3-stage dementia assessment workflow (Cognitive testing + memory evaluation + MRI classification). Built **SWIN Transformer** deep learning model to predict the dementia stage from brain MRI scans. | [View Repo](https://github.com/sowmya2006-s/-AI-Powered-Multimodal-Dementia-Detection-System.git) |
+| **AI-Based Automated Animal Type Classification** | Developed an AI system for cattle vs buffalo classification. Implemented hierarchical breed classification using CNN + Transfer Learning. Includes preprocessing, augmentation, and model training. | [View Repo](https://github.com/sowmya2006-s/Cattle_-_Buffalo.git) |
+| **Multi-Source RAG Chatbot** | Built an AI-powered Multi-Source RAG Chatbot for querying information from PDF, DOCX, and TXT documents.Used LangChain, FAISS, and Hugging Face LLMs for document indexing, semantic retrieval, and accurate answer generation with Streamlit interface . | [View Repo]([https://github.com/sowmya2006-s/Multi-Source-CHATBOT.git) |
+| **Spring Boot E-Commerce Platfom** |Developed a Spring Boot E-Commerce Backend with PostgreSQL to manage products and users through REST APIs. Implemented authentication, DTOs, global exception handling, image upload, Swagger documentation, and SLF4J logging. Containerized the application using Docker and Docker Compose for simplified deployment with REACT UI . | [View Repo]([https://github.com/sowmya2006-s/SpringBoot-Project.git) |
 
 ---
 
